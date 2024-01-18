@@ -17,17 +17,17 @@ Project Manager:
 - Mans Construction
   
 ### Projects 
-Web Scraping with BeautifulSoup in Python
+- Web Scraping with BeautifulSoup in Python
 
-NASA Mars Rover Photo Retrieval
+- NASA Mars Rover Photo Retrieval
 
-Data Extraction Satellite_Data_System
+- Data Extraction Satellite_Data_System
 
-Food & Drug Administration API
+- Food & Drug Administration API
 
-(SDS) Satellite Data System Exploration
+- (SDS) Satellite Data System Exploration
 
-Flight Price Prediction
+- Flight Price Prediction
 
-Orbital Mechanics/Calculator
+- Orbital Mechanics/Calculator
 
