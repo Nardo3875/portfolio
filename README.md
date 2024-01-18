@@ -1,6 +1,8 @@
 # Data Engineer | Program Manager | Software Engineer
 ## My Portfolio (Data Engineering Projects)
 
+[![Leonard's GitHub stats](https://github-readme-stats.vercel.app/api?username=nardo3875)](https://github.com/nardo3875/github-readme-stats)
+
 ### Certifications 
 - IBM Data Engineering 
 - Google Data Analytics
