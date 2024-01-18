@@ -12,9 +12,9 @@ Nevada Department of Education (High School Equivalency)
 ### Work Experience 
 Project Manager:
 
-Village of Ruidoso
+- Village of Ruidoso
 
-Mans Construction
+- Mans Construction
   
 ### Projects 
 - Web Scraping with BeautifulSoup in Python
