@@ -1,8 +1,6 @@
 # Data Engineer | Program Manager | Software Engineer
 ## My Portfolio (Data Engineering Projects)
 
-### Website: [](www.linkedin.com/in/leonard-newbill0077)
-
 ### Certifications 
 - IBM Data Engineering 
 - Google Data Analytics
