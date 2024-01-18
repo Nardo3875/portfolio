@@ -18,10 +18,16 @@ Project Manager:
   
 ### Projects 
 Web Scraping with BeautifulSoup in Python
+
 NASA Mars Rover Photo Retrieval
+
 Data Extraction Satellite_Data_System
+
 Food & Drug Administration API
+
 (SDS) Satellite Data System Exploration
+
 Flight Price Prediction
+
 Orbital Mechanics/Calculator
 
