@@ -1,6 +1,8 @@
 # Data Engineer | Program Manager | Software Engineer
 ## My Portfolio (Data Engineering Projects)
 
+![profile image](assests/img/prof_pic.jpg.jpg)
+
 ### Certifications 
 - IBM Data Engineering 
 - Google Data Analytics
