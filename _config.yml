@@ -1,9 +1,6 @@
-logo: assests/img/cropped_cowboy.jpg
-
-
-
 title: Leonard M. Newbill
 # description: text below image
 # show_downloads: true
+logo: assests/img/cowboy_circle.jpg
 theme: jekyll-theme-minimal
 
