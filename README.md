@@ -16,6 +16,9 @@ Project Manager:
 - Village of Ruidoso
 
 - Mans Construction
+
+![profile image](assests/img/cropped_cowboy.jpg)
+
   
 ### Projects 
 - Web Scraping with BeautifulSoup in Python
