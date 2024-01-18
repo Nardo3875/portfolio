@@ -1,6 +1,8 @@
 # Data Engineer | Program Manager | Software Engineer
 ## My Portfolio (Data Engineering Projects)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nardo3875&hide_progress=true)
+
 ### Certifications 
 - IBM Data Engineering 
 - Google Data Analytics
