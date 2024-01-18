@@ -1,6 +1,6 @@
 title: Leonard M. Newbill
-logo: assests/img/cropped_cowboy.jpg
+# logo: assests/img/cropped_cowboy.jpg
 #description: text below image
-show_downloads: true
+# show_downloads: true
 theme: jekyll-theme-minimal
 
