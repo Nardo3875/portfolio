@@ -71,4 +71,4 @@ Project Manager:
 ### Objective: 
 As a seasoned Senior Data Engineer/Data Analyst/Progam Manager/Software Engineer, I am eager to leverage my skills and experience to excel in the role of Data Engineer. My proficiency in database design, data modeling, and expertise in data integration technologies align with the key responsibilities outlined in the job description. I am confident in my ability to contribute to a culture of data-driven decision-making and optimize the use of data assets to support strategic initiatives.
 
-Email: <leonardnewbill@gmail.com> Phone: (575) 650-9233 LinkedIn: [](www.linkedin.com/in/leonard-newbill0077)
+Email: <leonardnewbill@gmail.com> Phone: (575) 650-9233 LinkedIn: [www.linkedin.com/in/leonard-newbill0077](www.linkedin.com/in/leonard-newbill0077)
