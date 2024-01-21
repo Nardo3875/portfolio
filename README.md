@@ -1,5 +1,4 @@
 ## Data Engineer | Program Manager | Software Engineer
----
 ## Leonard M. Newbill
 
 ### Certifications: 
