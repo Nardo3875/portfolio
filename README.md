@@ -16,7 +16,15 @@ Dedicated Senior Data Engineer/Analyst/Progam Manager/Software Engineer with a c
 - Ready Mixed Concrete Plant Manager
 
 ### Education:
-Nevada Department of Education (High School Equivalency)
+- Nevada Department of Education 
+- IBM (Coursera)
+- Google (Coursera)
+- National Ready Mixed Concrete Association
+- OSHA Safety Training Institute
+- New Mexico State Goverment
+- ACI
+- American Technical Institute
+- National Ready Mixed Concrete Association
 
 
 ### Technical Skills:
@@ -59,3 +67,8 @@ Project Manager:
 - Flight Price Prediction
 
 - Orbital Mechanics/Calculator
+
+### Objective: 
+As a seasoned Data Engineer/Analyst, I am eager to leverage my skills and experience to excel in the role of Data Engineer. My proficiency in database design, data modeling, and expertise in data integration technologies align with the key responsibilities outlined in the job description. I am confident in my ability to contribute to a culture of data-driven decision-making and optimize the use of data assets to support strategic initiatives.
+
+Email: leonardnewbill@gmail.com Phone: (575) 650-9233 LinkedIn: www.linkedin.com/in/leonard-newbill0077
