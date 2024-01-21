@@ -2,15 +2,15 @@
 ---
 ## My Portfolio (Data Engineering Projects)
 
-### Certifications 
+### Certifications: 
 - IBM Data Engineering 
 - Google Data Analytics
 - Cheif Purchasing Officer 
 
-### Education
+### Education:
 Nevada Department of Education (High School Equivalency)
 
-### Work Experience 
+### Work Experience:
 Project Manager:
 
 - Village of Ruidoso
@@ -18,7 +18,7 @@ Project Manager:
 - Mans Construction
 
   
-### Projects 
+### Projects:
 - Web Scraping with BeautifulSoup in Python
 
 - NASA Mars Rover Photo Retrieval
