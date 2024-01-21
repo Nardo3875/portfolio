@@ -3,7 +3,7 @@
 ## My Portfolio (Data Engineering Projects)
 
 ### Professional Summary:
-Dedicated Senior Data Engineer/Analyst/Progam Manager/Software Engineer with a comprehensive understanding of ETL processes and expertise in managing complex data integration frameworks. Proficient in SQL, NoSQL, and Python, with a focus on designing and developing robust data models and ETL processes. Skilled in database design, data movement concepts, and data exchange formats. Strong problem-solving abilities and excellent communication skills, both written and verbal. Committed to delivering high-quality data solutions and actionable insights to drive business decisions.
+Dedicated Senior Data Engineer/Data Analyst/Progam Manager/Software Engineer with a comprehensive understanding of ETL processes and expertise in managing complex data integration frameworks. Proficient in SQL, NoSQL, and Python, with a focus on designing and developing robust data models and ETL processes. Skilled in database design, data movement concepts, and data exchange formats. Strong problem-solving abilities and excellent communication skills, both written and verbal. Committed to delivering high-quality data solutions and actionable insights to drive business decisions.
 
 
 ### Certifications: 
@@ -69,6 +69,6 @@ Project Manager:
 - Orbital Mechanics/Calculator
 
 ### Objective: 
-As a seasoned Data Engineer/Analyst, I am eager to leverage my skills and experience to excel in the role of Data Engineer. My proficiency in database design, data modeling, and expertise in data integration technologies align with the key responsibilities outlined in the job description. I am confident in my ability to contribute to a culture of data-driven decision-making and optimize the use of data assets to support strategic initiatives.
+As a seasoned Senior Data Engineer/Data Analyst/Progam Manager/Software Engineer, I am eager to leverage my skills and experience to excel in the role of Data Engineer. My proficiency in database design, data modeling, and expertise in data integration technologies align with the key responsibilities outlined in the job description. I am confident in my ability to contribute to a culture of data-driven decision-making and optimize the use of data assets to support strategic initiatives.
 
 Email: leonardnewbill@gmail.com Phone: (575) 650-9233 LinkedIn: www.linkedin.com/in/leonard-newbill0077
