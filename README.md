@@ -9,7 +9,7 @@ Dedicated Senior Data Engineer/Data Analyst/Progam Manager/Software Engineer wit
 ### Certifications: 
 - IBM Data Engineering 
 - Google Data Analytics
-- Cheif Purchasing Officer - (Issued: Feb 2023, Credential ID: CPO-2023-00000-04235)
+- Chief Purchasing Officer - (Issued: Feb 2023, Credential ID: CPO-2023-00000-04235)
 - OSHA 10-Hour
 - ACI Concrete Field Testing Technician - Grade 1
 - Radiation Safety Officer
