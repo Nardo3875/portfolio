@@ -54,17 +54,15 @@ Project Manager:
 
   
 ### Projects: 
-- Web Scraping with BeautifulSoup in Python
+- Web Scraping with BeautifulSoup in Python [https://github.com/Nardo3875/Data_Engineering_Projects/blob/main/web_scrape_companies.ipynb](https://github.com/Nardo3875/Data_Engineering_Projects/blob/main/web_scrape_companies.ipynb)
 
 - NASA Mars Rover Photo Retrieval [https://github.com/Nardo3875/Data_Engineering_Projects/blob/main/mars_rover_api.py](https://github.com/Nardo3875/Data_Engineering_Projects/blob/main/mars_rover_api.py)
 
-- Data Extraction Satellite_Data_System
+- Food & Drug Administration API [https://github.com/Nardo3875/Data_Engineering_Projects/blob/main/fda_api.py](https://github.com/Nardo3875/Data_Engineering_Projects/blob/main/fda_api.py)
 
-- Food & Drug Administration API
+- (SDS) Satellite Data System Exploration [https://github.com/Nardo3875/Data_Engineering_Projects/blob/main/sds_1.py](https://github.com/Nardo3875/Data_Engineering_Projects/blob/main/sds_1.py)
 
-- (SDS) Satellite Data System Exploration
-
-- Flight Price Prediction
+- Flight Price Prediction [https://github.com/Nardo3875/Data_Engineering_Projects/blob/main/flight_predictor/flight_predictor/manage.py](https://github.com/Nardo3875/Data_Engineering_Projects/blob/main/flight_predictor/flight_predictor/manage.py)
 
 - Orbital Mechanics/Calculator [https://github.com/Nardo3875/Data_Engineering_Projects/blob/main/Orbital_calculator.py](https://github.com/Nardo3875/Data_Engineering_Projects/blob/main/Orbital_calculator.py)
 
