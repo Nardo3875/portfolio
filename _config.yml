@@ -1,5 +1,5 @@
 title: Leonard M. Newbill
 # description: 
-show_downloads: false
+show_downloads: true
 logo: assests/img/cowboy_circle.jpg
-theme: jekyll-theme-dinky
+theme: jekyll-theme-leap-day
