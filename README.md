@@ -66,7 +66,7 @@ Project Manager:
 
 - Flight Price Prediction
 
-- Orbital Mechanics/Calculator
+- Orbital Mechanics/Calculator [https://github.com/Nardo3875/Data_Engineering_Projects/blob/main/Orbital_calculator.py](https://github.com/Nardo3875/Data_Engineering_Projects/blob/main/Orbital_calculator.py)
 
 ### Objective: 
 As a seasoned Senior Data Engineer/Data Analyst/Progam Manager/Software Engineer, I am eager to leverage my skills and experience to excel in the role of Data Engineer. My proficiency in database design, data modeling, and expertise in data integration technologies align with the key responsibilities outlined in the job description. I am confident in my ability to contribute to a culture of data-driven decision-making and optimize the use of data assets to support strategic initiatives.
