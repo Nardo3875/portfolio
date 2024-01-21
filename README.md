@@ -21,7 +21,7 @@ Dedicated Senior Data Engineer/Data Analyst/Progam Manager/Software Engineer wit
 - Google (Coursera)
 - National Ready Mixed Concrete Association
 - OSHA Safety Training Institute
-- New Mexico State Goverment
+- New Mexico State Government
 - ACI
 - American Technical Institute
 - National Ready Mixed Concrete Association
