@@ -55,7 +55,7 @@ Project Manager:
 
 - Mans Construction
 
-![](assests/img/projects.jpg)  
+![](assests/img/comp_biz.jpg) 
 ### Projects: 
 - Web Scraping with BeautifulSoup in Python [https://github.com/Nardo3875/Data_Engineering_Projects/blob/main/web_scrape_companies.ipynb](https://github.com/Nardo3875/Data_Engineering_Projects/blob/main/web_scrape_companies.ipynb)
 
