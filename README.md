@@ -2,7 +2,7 @@
 ---
 ### My Portfolio 
 
-![](assests/img/data_conn.jpg)
+![](assests/img/warehouse_data.jpg)
 
 ### Professional Summary:
 Dedicated Senior Data Engineer/Data Analyst/Progam Manager/Software Engineer with a comprehensive understanding of ETL processes and expertise in managing complex data integration frameworks. Proficient in SQL, NoSQL, and Python, with a focus on designing and developing robust data models and ETL processes. Skilled in database design, data movement concepts, and data exchange formats. Strong problem-solving abilities and excellent communication skills, both written and verbal. Committed to delivering high-quality data solutions and actionable insights to drive business decisions.
@@ -46,7 +46,7 @@ Dedicated Senior Data Engineer/Data Analyst/Progam Manager/Software Engineer wit
 - SparkSQL
 - MongoDB
 
-![](assests/img/Data_Center.jpg)
+![](assests/img/data_conn.jpg)
 
 ### Work Experience:
 Project Manager:
@@ -55,7 +55,7 @@ Project Manager:
 
 - Mans Construction
 
-  
+![](assests/img/projects.jpg)  
 ### Projects: 
 - Web Scraping with BeautifulSoup in Python [https://github.com/Nardo3875/Data_Engineering_Projects/blob/main/web_scrape_companies.ipynb](https://github.com/Nardo3875/Data_Engineering_Projects/blob/main/web_scrape_companies.ipynb)
 
