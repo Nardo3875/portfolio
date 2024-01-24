@@ -46,7 +46,7 @@ Dedicated Senior Data Engineer/Data Analyst/Progam Manager/Software Engineer wit
 - SparkSQL
 - MongoDB
 
-![](assests/img/web_dev1.jpg)
+![](assests/img/Data_Center.jpg)
 
 ### Work Experience:
 Project Manager:
