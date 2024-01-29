@@ -45,6 +45,9 @@ Dedicated Senior Data Engineer/Data Analyst/Progam Manager/Software Engineer wit
 - SparkML
 - SparkSQL
 - MongoDB
+- JavaScript
+- C++
+- C#
 
 ![](assests/img/data_conn.jpg)
 
